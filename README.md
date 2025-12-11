@@ -1,5 +1,5 @@
 # HR_LLM_biased
-
+yaicon 7th 
 # introduction
 (1)The adoption of LLMs is essential for HR operational efficiency
 -Volume overload  : During peak recruitment seasons, a single HR manager should face thousands of applications.
@@ -12,9 +12,11 @@
 
 
 # dataset
--original dataset
+(1)original dataset
 https://github.com/Pramod9222/Employee-Performance-Analysis-
--generate personal profile and augment
+
+
+(2)generate personal profile and augment
 <img width="476" height="128" alt="스크린샷 2025-12-11 오후 8 45 34" src="https://github.com/user-attachments/assets/c9b4c172-7671-4d9f-89bb-82716aa7c9bb" />
 
 # experiment
@@ -42,8 +44,9 @@ Compare multiple model outputs for the same employee
 
 
 # key findings
-Focus on non-quantifiable soft skills → Deepseek, Llama
-Strictly based on facts → Gemini, GPT
+-Focus on non-quantifiable soft skills → Deepseek, Llama
+-Strictly based on facts → Gemini, GPT
 
 <img width="326" height="216" alt="스크린샷 2025-12-11 오후 8 51 41" src="https://github.com/user-attachments/assets/cad7e7d0-c76b-4e85-a938-c2736df1524e" />
+<img width="327" height="184" alt="스크린샷 2025-12-11 오후 8 54 32" src="https://github.com/user-attachments/assets/20dad5a5-30ea-409e-966f-f72c5235252d" />
 
